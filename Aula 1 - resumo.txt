@@ -1,0 +1,3 @@
+A aula explica como criar branches é a resolução para problemas envolvendo conflitos entre equipes.
+branches são "galhos" do tronco principal, ou seja, são desvios no projeto principal, que mais tarde podem ser
+integrados de volta a ele.
